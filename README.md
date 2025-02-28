@@ -3,7 +3,7 @@
 ![YOLO Bottle Detection](https://github.com/yourusername/your-repo-name/blob/main/banner-image.jpg)  
 
 ## 🎥 Watch the Demo Video  
-[![Bottle Detection Demo]]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/cjj7zAqm290?feature=share))  
+[![Bottle Detection Demo]]([https://youtube.com/shorts/cjj7zAqm290?feature=share]))  
 
 ## 🔍 **Project Overview**  
 Can AI **detect bottles in real-time?** The answer is **YES!** This project demonstrates **real-time bottle detection using YOLO** (You Only Look Once), leveraging **Computer Vision and Deep Learning** to identify bottles in video frames.  
